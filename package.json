@@ -5,7 +5,7 @@
   "main": "lib/hdkey.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/OntologyCommunityDevelopers/hdkey"
+    "url": "git://https://github.com/Atomicwallet/hdkey-secp256r1"
   },
   "license": "MIT",
   "keywords": [
@@ -19,9 +19,9 @@
     "secp256r1"
   ],
   "bugs": {
-    "url": "https://github.com/OntologyCommunityDevelopers/hdkey/issues"
+    "url": "https://github.com/Atomicwallet/hdkey-secp256r1"
   },
-  "homepage": "https://github.com/OntologyCommunityDevelopers/hdkey",
+  "homepage": "https://github.com/Atomicwallet/hdkey-secp256r1",
   "devDependencies": {
     "bigi": "^1.1.0",
     "coveralls": "^2.10.0",
