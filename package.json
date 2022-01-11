@@ -5,7 +5,7 @@
   "main": "lib/hdkey.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Atomicwallet/hdkey-secp256r1"
+    "url": "ssh://https://github.com/Atomicwallet/hdkey-secp256r1"
   },
   "license": "MIT",
   "keywords": [
